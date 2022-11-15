@@ -1,5 +1,5 @@
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/php-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/php-%23DD0031.svg?style=for-the-badge&logo=php&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/github/v/release/hegdehog/PolylineGenerator?style=for-the-badge" /></a>
 <a href=""><img src="https://img.shields.io/github/repo-size/hegdehog/PolylineGenerator?style=for-the-badge" /></a>
 </p>
