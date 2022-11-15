@@ -1,3 +1,9 @@
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/php-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/github/v/release/hegdehog/PolylineGenerator?style=for-the-badge" /></a>
+<a href=""><img src="https://img.shields.io/github/repo-size/hegdehog/PolylineGenerator?style=for-the-badge" /></a>
+</p>
+
 # PolylineGenerator
 This script generates a polyline code using a shapefile as source. The shapefile format is a geospatial vector data format for geographic information system (GIS) software, in our case, we use it to get the polygon's coordinates of a region or country. For example, we can use the polylines with *QlikMaps* (tool for *Qlik Sense*), which it's a reporting software for Data Vistualization.
 
@@ -19,3 +25,12 @@ The following collection of coordinates represent the polygon of a little town (
  ![polyline polygon](https://i0.wp.com/www.n4gash.com/wp-content/2017/11/alcorcon-shapefile.png?w=1290)
  
  More info and comments on: https://www.n4gash.com/2017/shapefiles-municipios-espana/
+ 
+ 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone git@github.com:hegdehog/PolylineGenerator.git
+```
